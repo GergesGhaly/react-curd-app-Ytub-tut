@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GergesGhaly/react-curd-app-Ytub-tut.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/GergesGhaly/react-curd-app-Ytub-tut.git/static/js/main.0d57df0b.chunk.js",
+    "main.js.map": "/GergesGhaly/react-curd-app-Ytub-tut.git/static/js/main.0d57df0b.chunk.js.map",
+    "runtime-main.js": "/GergesGhaly/react-curd-app-Ytub-tut.git/static/js/runtime-main.9d5c0f26.js",
+    "runtime-main.js.map": "/GergesGhaly/react-curd-app-Ytub-tut.git/static/js/runtime-main.9d5c0f26.js.map",
+    "static/js/2.5f8ee2af.chunk.js": "/GergesGhaly/react-curd-app-Ytub-tut.git/static/js/2.5f8ee2af.chunk.js",
+    "static/js/2.5f8ee2af.chunk.js.map": "/GergesGhaly/react-curd-app-Ytub-tut.git/static/js/2.5f8ee2af.chunk.js.map",
+    "static/js/3.bef1ca66.chunk.js": "/GergesGhaly/react-curd-app-Ytub-tut.git/static/js/3.bef1ca66.chunk.js",
+    "static/js/3.bef1ca66.chunk.js.map": "/GergesGhaly/react-curd-app-Ytub-tut.git/static/js/3.bef1ca66.chunk.js.map",
+    "index.html": "/GergesGhaly/react-curd-app-Ytub-tut.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/GergesGhaly/react-curd-app-Ytub-tut.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5f8ee2af.chunk.js.LICENSE.txt": "/GergesGhaly/react-curd-app-Ytub-tut.git/static/js/2.5f8ee2af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d5c0f26.js",
+    "static/js/2.5f8ee2af.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0d57df0b.chunk.js"
+  ]
+}
